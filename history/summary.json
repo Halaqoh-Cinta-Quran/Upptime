@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2315,
-    "timeDay": 2315,
-    "timeWeek": 2315,
-    "timeMonth": 2315,
-    "timeYear": 2315,
+    "time": 2240,
+    "timeDay": 2240,
+    "timeWeek": 2240,
+    "timeMonth": 2240,
+    "timeYear": 2240,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "HCQ Backend API",
-    "url": "https://api.hcq.my.id",
-    "icon": "https://icons.duckduckgo.com/ip3/api.hcq.my.id.ico",
-    "slug": "hcq-backend-api",
-    "status": "down",
-    "uptime": "29.23%",
-    "uptimeDay": "29.23%",
-    "uptimeWeek": "29.23%",
-    "uptimeMonth": "29.23%",
-    "uptimeYear": "29.23%",
-    "time": 2393,
-    "timeDay": 2393,
-    "timeWeek": 2393,
-    "timeMonth": 2393,
-    "timeYear": 2393,
-    "dailyMinutesDown": {
-      "2026-01-02": 0
-    }
   }
 ]
